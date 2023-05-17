@@ -16,7 +16,8 @@
 ▶️ Analise exploratoria selec full rows.<br>
 ▶️ Diagramas de dispersão ou gráficos de dispersão Scatter plot <br>
 
-<h2>Base do Brasil</h2>  
+<h2>Base dados  do Brasil</h2>  
+<p>foi necessário coletar os dados do Ministério da saúde e do governo do estado do Rio de janeiro e preparar os dados para que pudesse ser gerado na ferramenta Orange Datamining. </p>  
   
 ▶️ Grafico dos estados do Brasil.<br>
 ▶️ Grafico t-sne.<br>
